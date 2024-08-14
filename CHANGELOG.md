@@ -1,5 +1,19 @@
 # Changelog
 
+## [20.2.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.1.1...v20.2.0) (2024-08-14)
+
+
+### Features
+
+* **add:** ZNCLDJ01LM ([#7848](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7848)) ([f5ab382](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f5ab382fda22b30057604f4bf7d0e5633f3044d1))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE200_moycceze` as Immax 07505L ([#7855](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7855)) ([f223c73](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f223c73574d2d647a32a7977db89f3b609abc02b))
+* **detect:** Detect `AG0002` as Lanesto 322054 https://github.com/Koenkk/zigbee2mqtt/discussions/23600 ([d718546](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d718546ccb991f30fdb733c2ef450982854ba78b))
+* Fix Lonsonho QS-Zigbee-C01 `calibration_time` https://github.com/Koenkk/zigbee2mqtt.io/pull/2936 ([e8d133a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e8d133a97f3049f3206e6ab85435592ec9ebae92))
+
 ## [20.1.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.1.0...v20.1.1) (2024-08-13)
 
 
